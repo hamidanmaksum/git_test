@@ -1,2 +1,2 @@
 # git_test
-hello odin
+lakar de iyeh esip <3
